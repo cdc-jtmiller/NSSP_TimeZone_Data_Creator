@@ -107,7 +107,7 @@ IANA_TO_LABELS = {
         "TZN": "UTC-11: Samoa Standard Time",
     },
     "Pacific/Guam": {
-        "TZ": "ChST",
+        "TZ": "CHST",
         "TZN": "UTC+10: Chamorro Standard Time",
     },
 }
