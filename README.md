@@ -14,10 +14,10 @@ The pipeline is fully automated and designed to:
 ---
 
 ## Project Structure
-
+```text
 TimeZone_Update/
-├── data/        # Raw downloaded data (Census + BTS)
-├── output/      # Generated outputs
+├── data/        
+├── output/      
 ├── scripts/
 │   ├── config.py
 │   ├── start_over.py
@@ -28,6 +28,7 @@ TimeZone_Update/
 └── utility/
     ├── requirements.txt
     └── README.md
+```
 
 ---
 
