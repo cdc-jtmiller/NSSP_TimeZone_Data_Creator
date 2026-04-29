@@ -1,0 +1,953 @@
+TZState,StateName,TZ,ADJHRS,ADJHRSDST,DST,TZN,TZN2,TSN3,stdatedt,endatedt,Year,tzStart,tzEnd,tstdate,tendate,stdate,endate,endatep1
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2011,13-Mar,6-Nov,20110313,20111106,3/13/2011,11/6/2011,11/7/2011
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2012,11-Mar,4-Nov,20120311,20121104,3/11/2012,11/4/2012,11/5/2012
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2013,10-Mar,3-Nov,20130310,20131103,3/10/2013,11/3/2013,11/4/2013
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2014,March 9,November 2,20140309,20141102,3/9/2014,11/2/2014,11/3/2014
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2015,March 8,November 1,20150308,20151101,3/8/2015,11/1/2015,11/2/2015
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2016,March 13,November 6,20160313,20161106,3/13/2016,11/6/2016,11/7/2016
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2017,March 12,November 5,20170312,20171105,3/12/2017,11/5/2017,11/6/2017
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2018,March 11,November 4,20180311,20181104,3/11/2018,11/4/2018,11/5/2018
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2019,March 10,November 3,20190310,20191103,3/10/2019,11/3/2019,11/4/2019
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2020,March 8,November 1,20200308,20201101,3/8/2020,11/1/2020,11/2/2020
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2021,March 14,November 7,20210314,20211107,3/14/2021,11/7/2021,11/8/2021
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2022,March 13,November 6,20220313,20221106,3/13/2022,11/6/2022,11/7/2022
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2023,March 12,November 5,20230312,20231105,3/12/2023,11/5/2023,11/6/2023
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2010,14-Mar,7-Nov,20100314,20101107,3/14/2010,11/7/2010,11/8/2010
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2024,10-Mar,3-Nov,20240310,20241103,3/10/2024,11/3/2024,11/4/2024
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+VT,Vermont,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+WA,Washington,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+WI,Wisconsin,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+WV,West Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+WY,Wyoming,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2025,9-Mar,2-Nov,20250309,20251102,3/9/2025,11/2/2025,11/3/2025
+AK,Alaska,AKST,9,8,Y,Alaska Standard Time (AKST),Aleutian Islands Hawaii-Aleutian Standard Time (HST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+AL,Alabama,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+AR,Arkansas,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+AS,American Samoa,SST,11,10,N,UTC-11: Samoa Standard Time,NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+AZ,Arizona,MST,7,7,N,Mountain Standard Time (MST),"The Navajo Nation uses Daylight Saving Time (DST), the rest of the state does not",NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+CA,California,PST,8,7,Y,Pacific Standard Time (PST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+CO,Colorado,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+CT,Connecticut,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+DC,"Washington, D.C.",EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+DE,Delaware,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+FL,Florida,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),West of the Apalachicola River: Central Standard Time (CST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+GA,Georgia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+GU,Guam,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+HI,Hawaii,HST,10,10,N,Hawaii-Aleutian Standard Time (HST),Hawaii does not use Daylight Saving Time (DST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+IA,Iowa,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+ID,Idaho,MST,7,6,Y,Most of the state: Mountain Standard Time (MST),North of the Salmon River: Pacific Standard Time (PST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+IL,Illinois,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+IN,Indiana,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Northwest and southwest corners: Central Standard Time (CST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+KS,Kansas,CST,6,5,Y,Most of the state: Central Standard Time (CST),"Greeley, Hamilton, Sherman and Wallace counties: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+KY,Kentucky,CST,6,5,Y,Western half of the state: Central Standard Time (CST),Eastern half of the state: Eastern Standard Time (EST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+LA,Louisiana,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MA,Massachusetts,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MD,Maryland,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+ME,Maine,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MI,Michigan,EST,5,4,Y,Most of the state: Eastern Standard Time (EST),Counties that share a border with Wisconsin: Central Standard Time (CST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MN,Minnesota,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MO,Missouri,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MP,Northern Mariana Islands,CHST,-10,-10,N,UTC+10: Chamorro Standard Time,NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MS,Mississippi,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+MT,Montana,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NC,North Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+ND,North Dakota,EST,5,4,Y,Most of the state: Central Standard Time (CST),Southwestern part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NE,Nebraska,CST,6,5,Y,Most of the state: Central Standard Time (CST),Western part of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NH,New Hampshire,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NJ,New Jersey,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NM,New Mexico,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NV,Nevada,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),"2 small towns, Jackpot and West Wendover: Mountain Standard Time (MST)",NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+NY,New York,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+OH,Ohio,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+OK,Oklahoma,CST,6,5,Y,Central Standard Time (CST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+OR,Oregon,PST,8,7,Y,Most of the state: Pacific Standard Time (PST),Part of Malheur County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+PA,Pennsylvania,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+PR,Puerto Rico,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+RI,Rhode Island,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+SC,South Carolina,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+SD,South Dakota,CST,6,5,Y,Eastern half of the state: Central Standard Time (CST),Western half of the state: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+TN,Tennessee,CST,6,5,Y,West Tennessee: Central Standard Time (CST),"Middle Tennessee, plus Marion County: Central Standard Time (CST)","East Tennessee, except Marion County: Eastern Standard Time (EST)",00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+TX,Texas,CST,6,5,Y,Most of the state: Central Standard Time (CST),El Paso and Hudspeth counties and part of Culberson County: Mountain Standard Time (MST),NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+UT,Utah,MST,7,6,Y,Mountain Standard Time (MST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+VA,Virginia,EST,5,4,Y,Eastern Standard Time (EST),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026
+VI,U.S. Virgin Islands,AST,5,5,N,UTC-4: Atlantic Standard Time (ATC),NULL,NULL,00:00.0,00:00.0,2026,9-Mar,2-Nov,20260309,20261102,3/9/2026,11/2/2026,11/3/2026

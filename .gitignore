@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Generated output
+output/
+
+# Logs
+*.log
+
+# Secrets
+secrets/
+.env
+.env.*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# SHP files
+data/counties/*.shp
+data/counties/*.dbf
+data/counties/*.shx
+data/counties/*.prj
+data/counties/*.cpg
