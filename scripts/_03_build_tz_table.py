@@ -69,18 +69,6 @@ def format_yyyymmdd(dt: Optional[datetime]) -> str:
 
 
 def offset_hours_legacy(dt: datetime) -> int:
-    """
-    Match the legacy convention used by the existing table:
-    positive hours offset magnitude, e.g.
-      EST -> 5
-      CST -> 6
-      MST -> 7
-      PST -> 8
-      AKST -> 9
-      AST -> 4
-      ChST -> 10
-      SST -> 11
-    """
     off = dt.utcoffset()
     if off is None:
         raise ValueError("No UTC offset available for datetime.")
@@ -92,10 +80,6 @@ def find_transition(
     start_local: datetime,
     end_local: datetime,
 ) -> datetime:
-    """
-    Binary search within a local interval to find when the UTC offset changes.
-    Returns a naive local datetime rounded to the minute.
-    """
     start_off = start_local.replace(tzinfo=tz).utcoffset()
     end_off = end_local.replace(tzinfo=tz).utcoffset()
 
@@ -116,9 +100,6 @@ def find_transition(
 
 
 def year_transitions(zone_name: str, year: int) -> list[datetime]:
-    """
-    Scan a year day-by-day to locate offset changes, then refine each one.
-    """
     tz = ZoneInfo(zone_name)
     transitions: list[datetime] = []
 
@@ -143,10 +124,6 @@ def year_transitions(zone_name: str, year: int) -> list[datetime]:
 def derive_dst_bounds(
     zone_name: str, year: int
 ) -> Tuple[Optional[datetime], Optional[datetime]]:
-    """
-    Return DST start and end datetimes for a zone/year.
-    For non-DST zones, both return values are None.
-    """
     tz = ZoneInfo(zone_name)
     dst_start: Optional[datetime] = None
     dst_end: Optional[datetime] = None
@@ -214,7 +191,7 @@ def build_rows(reference: pd.DataFrame, start_year: int, end_year: int) -> pd.Da
                     "CountyName": rec["CountyName"],
                     "IanaZone": zone_name,
                     "LegalZoneName": rec["LegalZoneName"],
-                    "TZ": labels["TZ"],
+                    "TZ": labels["TZ"].upper(),
                     "ADJHRS": adjhrs,
                     "ADJHRSDST": adjhrsdst,
                     "DST": "Y" if uses_dst else "N",
@@ -236,115 +213,105 @@ def build_rows(reference: pd.DataFrame, start_year: int, end_year: int) -> pd.Da
                 }
             )
 
-    return pd.DataFrame(rows)[
-        [
-            "TZState",
-            "StateName",
-            "CountyFIPS",
-            "CountyName",
-            "IanaZone",
-            "LegalZoneName",
-            "TZ",
-            "ADJHRS",
-            "ADJHRSDST",
-            "DST",
-            "TZN",
-            "TZN2",
-            "TSN3",
-            "stdatedt",
-            "endatedt",
-            "Year",
-            "tzStart",
-            "tzEnd",
-            "tstdate",
-            "tendate",
-            "stdate",
-            "endate",
-            "endatep1",
-        ]
-    ]
+    return pd.DataFrame(rows)
 
 
 def build_orig_rows(county_df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Collapse county-year rows to one row per state-year. This 
-	dataframe matches the original table's schema exactly and 
-	can be used for direct comparison. However, the output may
-    not match the time zone chosen for those states with multiple 
-	time zones (13) . To clarify, for those states with multiple
-	time zones, we have chosen the timezone with the most counties
-    in that state. We don't know the original logic for how the
-	original time zone was chosen.
-    
-    Rule:
-    - For each TZState + Year, pick the time-zone pattern used by the largest
-      number of counties in that state for that year.
-    """
+    output_rows: list[dict[str, object]] = []
 
-    working = county_df.copy()
+    for (tz_state, year), group in county_df.groupby(["TZState", "Year"], dropna=False):
+        zone_counts = (
+            group.groupby(
+                [
+                    "IanaZone",
+                    "LegalZoneName",
+                    "TZ",
+                    "ADJHRS",
+                    "ADJHRSDST",
+                    "DST",
+                    "TZN",
+                    "stdatedt",
+                    "endatedt",
+                    "tzStart",
+                    "tzEnd",
+                    "tstdate",
+                    "tendate",
+                    "stdate",
+                    "endate",
+                    "endatep1",
+                ],
+                dropna=False,
+            )
+            .size()
+            .reset_index(name="CountyCount")
+            .sort_values(["CountyCount"], ascending=False)
+            .reset_index(drop=True)
+        )
 
-    # Count county rows per state/year/signature
-    signature_cols = [
-        "TZState",
-        "Year",
-        "StateName",
-        "TZ",
-        "ADJHRS",
-        "ADJHRSDST",
-        "DST",
-        "TZN",
-        "TZN2",
-        "TSN3",
-        "stdatedt",
-        "endatedt",
-        "tzStart",
-        "tzEnd",
-        "tstdate",
-        "tendate",
-        "stdate",
-        "endate",
-        "endatep1",
-    ]
+        primary = zone_counts.iloc[0]
 
-    grouped = (
-        working.groupby(signature_cols, dropna=False)
-        .size()
-        .reset_index(name="CountyCount")
-    )
+        zone_labels_df = (
+            group.groupby(["TZN"], dropna=False)
+            .size()
+            .reset_index(name="CountyCount")
+            .sort_values(["CountyCount", "TZN"], ascending=[False, True])
+        )
 
-    # Sort so the most common pattern per state/year wins
-    grouped = grouped.sort_values(
-        ["TZState", "Year", "CountyCount", "TZ", "ADJHRS", "TZN"],
-        ascending=[True, True, False, True, True, True],
-)
+        zone_labels = zone_labels_df["TZN"].tolist()
 
-    # Keep one row per state/year
-    orig_schema = grouped.drop_duplicates(subset=["TZState", "Year"], keep="first").copy()
+        output_rows.append(
+            {
+                "TZState": tz_state,
+                "StateName": group["StateName"].iloc[0],
+                "TZ": primary["TZ"],
+                "ADJHRS": primary["ADJHRS"],
+                "ADJHRSDST": primary["ADJHRSDST"],
+                "DST": primary["DST"],
+                "TZN": zone_labels[0] if len(zone_labels) > 0 else "",
+                "TZN2": zone_labels[1] if len(zone_labels) > 1 else "",
+                "TSN3": zone_labels[2] if len(zone_labels) > 2 else "",
+                "stdatedt": primary["stdatedt"],
+                "endatedt": primary["endatedt"],
+                "Year": year,
+                "tzStart": primary["tzStart"],
+                "tzEnd": primary["tzEnd"],
+                "tstdate": primary["tstdate"],
+                "tendate": primary["tendate"],
+                "stdate": primary["stdate"],
+                "endate": primary["endate"],
+                "endatep1": primary["endatep1"],
+            }
+        )
 
-    # Match original schema exactly
-    orig_schema = orig_schema[
-        [
-            "TZState",
-            "StateName",
-            "TZ",
-            "ADJHRS",
-            "ADJHRSDST",
-            "DST",
-            "TZN",
-            "TZN2",
-            "TSN3",
-            "stdatedt",
-            "endatedt",
-            "Year",
-            "tzStart",
-            "tzEnd",
-            "tstdate",
-            "tendate",
-            "stdate",
-            "endate",
-            "endatep1",
+    orig_schema = pd.DataFrame(output_rows)
+
+    orig_schema = (
+        orig_schema[
+            [
+                "TZState",
+                "StateName",
+                "TZ",
+                "ADJHRS",
+                "ADJHRSDST",
+                "DST",
+                "TZN",
+                "TZN2",
+                "TSN3",
+                "stdatedt",
+                "endatedt",
+                "Year",
+                "tzStart",
+                "tzEnd",
+                "tstdate",
+                "tendate",
+                "stdate",
+                "endate",
+                "endatep1",
+            ]
         ]
-    ].reset_index(drop=True)
+        .sort_values(["TZState", "Year"])
+        .reset_index(drop=True)
+    )
 
     return orig_schema
 
@@ -364,19 +331,9 @@ def validate_reference(reference: pd.DataFrame) -> None:
             f"Reference geography is missing required columns: {sorted(missing)}"
         )
 
-    if reference["IanaZone"].isna().any():
-        sample = reference[reference["IanaZone"].isna()].head(10)
-        raise ValueError(
-            "Reference geography contains rows with null IanaZone values. "
-            f"Sample: {sample.to_dict(orient='records')}"
-        )
-
 
 def main() -> None:
     args = parse_args()
-
-    if args.start_year > args.end_year:
-        raise ValueError("--start-year cannot be greater than --end-year")
 
     reference = gpd.read_file(args.reference_gpkg, layer=args.reference_layer)
     validate_reference(reference)
@@ -388,15 +345,10 @@ def main() -> None:
     county_output.to_csv(args.output_csv, index=False, encoding="utf-8")
 
     orig_output = build_orig_rows(county_output)
-    orig_output = orig_output.sort_values(
-        ["TZState", "Year"]
-    ).reset_index(drop=True)
     orig_output.to_csv(FINAL_ORIG_CSV, index=False, encoding="utf-8")
 
     print(f"Wrote county-level file: {args.output_csv}")
-    print(f"County-level rows written: {len(county_output)}")
-    print(f"Wrote original-schema file: {FINAL_ORIG_CSV}")
-    print(f"Original-schema rows written: {len(orig_output)}")
+    print(f"Wrote state-level file: {FINAL_ORIG_CSV}")
 
 
 if __name__ == "__main__":
