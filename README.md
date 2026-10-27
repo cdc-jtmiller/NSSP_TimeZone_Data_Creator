@@ -16,18 +16,19 @@ The pipeline is fully automated and designed to:
 ## Project Structure
 ```text
 TimeZone_Update/
-├── data/        
-├── output/      
+├── data/
+├── output/
 ├── scripts/
 │   ├── config.py
-│   ├── start_over.py
-│   ├── install_requirements.py
-│   ├── fetch_geography.py
-│   ├── build_tz_table.py
-│   └── run_all.py
+│   ├── debug.py
+│   ├── _00_run_all.py
+│   ├── _01_install_requirements.py
+│   ├── _02_fetch_geography.py
+│   ├── _03_build_tz_table.py
+│   ├── _04_compare_orig.py
+│   └── _99_start_over.py
 └── utility/
-    ├── requirements.txt
-    └── README.md
+    └── requirements.txt
 ```
 
 ---
@@ -82,18 +83,19 @@ Purpose:
 ## Execution Flow
 
 Entry Point:
-run_all.py
+_00_run_all.py
 
 Execution Order:
-1. install_requirements.py
-2. fetch_geography.py
-3. build_tz_table.py
+1. _01_install_requirements.py
+2. _02_fetch_geography.py
+3. _03_build_tz_table.py
+4. _04_compare_orig.py
 
 ---
 
 ## Script Descriptions
 
-### start_over.py
+### _99_start_over.py
 
 Purpose:
 - Resets the environment for testing
@@ -110,7 +112,7 @@ Use case:
 
 ---
 
-### install_requirements.py
+### _01_install_requirements.py
 
 Purpose:
 - Installs dependencies from utility/requirements.txt
@@ -129,10 +131,11 @@ Dependencies installed:
 - tzdata
 - fiona
 - psutil
+- datacompy
 
 ---
 
-### fetch_geography.py
+### _02_fetch_geography.py
 
 Purpose:
 - Builds the county-to-time-zone reference dataset
@@ -157,7 +160,7 @@ Key columns created:
 
 ---
 
-### build_tz_table.py
+### _03_build_tz_table.py
 
 Purpose:
 - Generates yearly time zone data from IANA rules
@@ -169,13 +172,37 @@ Steps:
    - UTC offsets
    - DST rules
 4. Formats output to match legacy schema
+5. Rolls the county-level rows up to one row per state and year
+   (the most common zone is primary; other zone labels go to TZN2 / TSN3)
 
-Output artifact:
-output/tzstdst_county_year.csv
+Options:
+- --start-year (default 2025)
+- --end-year (default: current year)
+
+Output artifacts:
+- output/tzstdst_county_year.csv
+- output/tzstdst_state_year.csv
 
 ---
 
-### run_all.py
+### _04_compare_orig.py
+
+Purpose:
+- Compares the legacy data/tzstdst_orig.csv with the newly generated
+  output/tzstdst_state_year.csv using DataComPy
+
+Key behavior:
+- Filters the original to the years present in the new file
+- Joins on TZState + Year
+
+Output artifacts:
+- output/tzstdst_compare_report.txt
+- output/tzstdst_compare_row_diffs.csv
+- output/tzstdst_compare_column_diffs.csv
+
+---
+
+### _00_run_all.py
 
 Purpose:
 - Orchestrates the full pipeline
@@ -183,11 +210,19 @@ Purpose:
 Steps executed:
 1. Install dependencies
 2. Fetch geography
-3. Build time zone table
+3. Build time zone tables
+4. Compare against the original
 
 Use case:
 - Single-click execution (VS Code GUI)
 - Production entry point
+
+---
+
+### debug.py
+
+Purpose:
+- Scratch script that prints the Florida county rows from the county-level output
 
 ---
 
@@ -198,6 +233,9 @@ output/tzstdst_county_year.csv
 
 Granularity:
 County + Year
+
+(output/tzstdst_state_year.csv has the same columns minus
+IanaZone, LegalZoneName, CountyFIPS and CountyName, at State + Year granularity.)
 
 Columns:
 
@@ -263,10 +301,10 @@ Possible definitions:
 ## Testing Workflow
 
 Full reset:
-start_over.py
+_99_start_over.py
 
 Run full pipeline:
-run_all.py
+_00_run_all.py
 
 ---
 
